@@ -1,6 +1,15 @@
 # Splunk Core User Practice Exam
 
-> 🎓 Interactive practice exam application for the **Splunk Core User Certification** with 65 comprehensive questions covering all exam domains.
+## ⚠️ Disclaimer ⚠️
+
+This is an **unofficial** practice exam created for educational purposes. It is not affiliated with, endorsed by, or sponsored by Splunk Inc.
+
+For official Splunk certification information, visit:
+- [Splunk Core Certified User](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html)
+- [Splunk Education](https://www.splunk.com/en_us/training.html)
+- [Splunk Documentation](https://docs.splunk.com)
+
+> Interactive practice exam application for the **Splunk Core User Certification** with 65 comprehensive questions covering all exam domains.
 
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -34,14 +43,14 @@ Both versions include all **65 questions** weighted according to the official Sp
 
 ### Core Features (Both Versions)
 
-- ✅ **65 Questions** - Complete coverage of all certification topics
-- ✅ **8 Domains** - Questions weighted per official exam percentages
-- ✅ **Interactive GUI** - User-friendly tkinter-based interface
-- ✅ **Instant Feedback** - Immediate answer validation with explanations
-- ✅ **Progress Tracking** - Real-time monitoring of answered questions
-- ✅ **Smart Navigation** - Jump to any question or navigate sequentially
-- ✅ **Domain Breakdown** - Detailed scoring by certification domain
-- ✅ **Pass/Fail Reporting** - 70% threshold with comprehensive results
+- **65 Questions** - Complete coverage of all certification topics
+- **8 Domains** - Questions weighted per official exam percentages
+- **Interactive GUI** - User-friendly tkinter-based interface
+- **Instant Feedback** - Immediate answer validation with explanations
+- **Progress Tracking** - Real-time monitoring of answered questions
+- **Smart Navigation** - Jump to any question or navigate sequentially
+- **Domain Breakdown** - Detailed scoring by certification domain
+- **Pass/Fail Reporting** - 70% threshold with comprehensive results
 
 ### Timer Version Additional Features
 
@@ -374,12 +383,12 @@ The 60-minute countdown timer uses `tkinter.after()` for accurate timing:
 3. **Final Review (5 min)** - Double-check answers
 
 ### Best Practices
-- ✅ Read questions carefully
-- ✅ Eliminate wrong answers first
-- ✅ Watch for keywords (NOT, EXCEPT, BEST)
-- ✅ Review all explanations
-- ✅ Take multiple practice exams
-- ✅ Track improvement over time
+- Read questions carefully
+- Eliminate wrong answers first
+- Watch for keywords (NOT, EXCEPT, BEST)
+- Review all explanations
+- Take multiple practice exams
+- Track improvement over time
 
 ## Contributing
 
@@ -403,7 +412,7 @@ Contributions are welcome! If you'd like to improve the practice exam:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer ⚠️
 
 This is an **unofficial** practice exam created for educational purposes. It is not affiliated with, endorsed by, or sponsored by Splunk Inc.
 
